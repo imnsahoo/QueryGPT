@@ -130,4 +130,4 @@ const generateCompletion = async (prompt) => {
   }
 };
 
-generateCompletion("Who is acting dean of the Faculty of Business Studies");
+generateCompletion("What courses are avaible ?");
